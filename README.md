@@ -1,4 +1,4 @@
-# InterviewBit-Binary-Search
+# InterviewBit Binary Search
 InterviewBit Binary Search Problems Solution in Python 
 <ul>
 <li>All Problems Solved in Python</li>
